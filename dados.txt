@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Fernando 
+-Profissão: Estudante
+-Cidade: Juiz de Fora MG
+-O que faz nas horas vaga: Filmes e futebol 
+-Feedback sobre o curso Qualidade de Software: Por enquanto estou gostando, mas poderia ter mais exemplos em determinados temas
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma e boa, de facil manuseio 
+
+Obrigado!!!
+
+
